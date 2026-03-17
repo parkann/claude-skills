@@ -26,7 +26,7 @@ Guides you through the full incident lifecycle with ready-to-paste Slack message
 2. Replace the placeholders:
    - `#[your-incident-channel]` → your Slack channel name
    - `your-jira-domain.atlassian.net` → your Jira domain
-   - `INC-XXXX` → your ticket prefix
+   - `SIM-XXXX` → your ticket prefix
 3. Connect Slack and Jira MCPs for full functionality (optional — copy-paste works without them)
 
 ## Example output
