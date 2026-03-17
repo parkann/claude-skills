@@ -4,7 +4,7 @@ description: >
   Incident Communications Manager for Product Managers. Use this skill whenever
   a PM needs to draft, update, or send incident communications to stakeholders via Slack
   (#[your-incident-channel]). Triggers on: "incident", "outage", "service down",
-  "INC-XXXX", "post-incident", "write the incident message", "draft the announcement",
+  "SIM-XXXX", "post-incident", "write the incident message", "draft the announcement",
   "update the field teams", "incident comms", "fill in the incident template",
   "something is broken and I need to communicate", "write an update for the business team",
   "draft the resolution message", or any mention of a Jira incident ticket needing stakeholder communication.
@@ -25,7 +25,7 @@ Before drafting anything, collect the following. Ask for everything you don't al
 a single, friendly question block. Don't ask one field at a time.
 
 **Required for any message:**
-- Jira ticket link (e.g. `https://your-jira-domain.atlassian.net/browse/INC-XXXX`)
+- Jira ticket link (e.g. `https://your-jira-domain.atlassian.net/browse/SIM-XXXX`)
 - Affected service(s), in **business terms**, not technical jargon
   (e.g. "Journey Entrance", not "horizontal is down" or "hit API is down")
 - **Which product(s) are affected**. ALWAYS ask if not explicitly stated
